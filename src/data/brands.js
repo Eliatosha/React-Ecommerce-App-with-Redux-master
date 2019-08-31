@@ -1,0 +1,1 @@
+export const brands = ["shoes","clothes","ownerments","sheets","vessels"];
